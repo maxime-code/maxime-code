@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Maxime, a french passionate dev. I love exploring new technologies and building cool projects. Here's a little about me:
+Welcome to my GitHub profile! I'm Maxime, a french passionate dev. I love exploring new technologies and building cool projects.
 I'm actually a student in computer science at ISEN (1st year master).
 
 ## 🔧 Skills & Tools
@@ -18,4 +18,4 @@ I'm actually a student in computer science at ISEN (1st year master).
 
 ## 🚀 Projects
 Here are some of the projects I'm currently working on or have completed
-Thanks for stopping by! Happy coding! 🚀
+Happy coding! 🚀
